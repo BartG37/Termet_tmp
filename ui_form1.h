@@ -4,7 +4,7 @@
 ** Created by: Qt User Interface Compiler version 5.12.12
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
-********************************************************************************/
+************************************************************************/
 
 #ifndef UI_FORM1_H
 #define UI_FORM1_H
